@@ -1,3 +1,16 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/uXYeLev1)
-# Case-Social-Connect
-Repositório que servirá como 1º Checkpoint da disciplina de WebDev da FIAP
+# SocialConnect
+
+## Resumo do Projeto
+O SocialConnect é um site de demonstração para organizar informações sobre uma empresa fictícia, incluindo seções de Sobre Nós, Equipe, Projetos e Contato, além de links para redes sociais no rodapé.
+
+## Tecnologias Utilizadas
+-HTML
+-CSS
+-Git/GitHub
+-GitHub Pages
+
+## Integrante do Projeto
+-Lucas Henrique Alves da Silva - RM: 572216
+
+## Link do Site
+https://fiap-engenharia-de-software.github.io/cp1-git-e-github-dev-meutrabalho/
